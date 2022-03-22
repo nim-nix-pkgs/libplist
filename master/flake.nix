@@ -9,7 +9,7 @@
   
   inputs.src-libplist-master.flake = false;
   inputs.src-libplist-master.owner = "samdmarshall";
-  inputs.src-libplist-master.ref   = "refs/heads/master";
+  inputs.src-libplist-master.ref   = "master";
   inputs.src-libplist-master.repo  = "libplist.nim";
   inputs.src-libplist-master.type  = "github";
   
