@@ -11,7 +11,6 @@
   inputs.src-libplist-master.ref   = "refs/heads/master";
   inputs.src-libplist-master.owner = "samdmarshall";
   inputs.src-libplist-master.repo  = "libplist.nim";
-  inputs.src-libplist-master.dir   = "";
   inputs.src-libplist-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
